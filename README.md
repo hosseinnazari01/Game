@@ -1,18 +1,15 @@
-This project is a rock-paper-scissors game.
-First we defined a constant variable called computer.
-And then we defined another variable with the username and the input command and then 3 values
+# 🎮 Guess the Number
 
-Rock 
-Paper 
-Scissors
+This is a simple Python game.
 
-And then the user must enter one of these valuesو 
-if the user entered the amount of stone and it was equal to the fixed amount of stone, print equal.
+The player needs to guess a number from 1 to 10.
 
-Otherwise, if the user entered the amount of paper and it was a fixed amount of stone, print it, you won.
+## How to Play
 
-Otherwise, if the user entered the amount of scissors and it was a fixed amount of paper, print it, you won.
+Enter a number from 1 to 10.
 
-Otherwise, if the user entered the amount of stones and it was a fixed amount of scissors, print it, you won.
+If your guess is correct, you win! 🎉
 
-Otherwise, print. The computer won.
+## Language
+
+Python 🐍
